@@ -375,3 +375,5 @@ WARNING: Unmatched cancel notification for request id 528
 2026.03.16 21:54:13 INFO  no build target found for C:\Users\vitorsantana\Desktop\faculdade\backend-mafra\atividade-3\api-contato\src\main\java\com\uninassau\api_contato\ApiContatoApplication.java. Using fallback presentation compiler.
 2026.03.16 21:54:14 WARN  no build target for: C:\Users\vitorsantana\Desktop\faculdade\backend-mafra\atividade-3\api-contato\src\main\java\com\uninassau\api_contato\ApiContatoApplication.java
 2026.03.16 21:54:14 INFO  no build target found for C:\Users\vitorsantana\Desktop\faculdade\backend-mafra\atividade-3\api-contato\src\main\java\com\uninassau\api_contato\ApiContatoApplication.java. Using fallback presentation compiler.
+mar. 16, 2026 10:12:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
